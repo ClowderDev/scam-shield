@@ -78,7 +78,8 @@ The goal is to combine blockchain transparency + community governance to build a
   https://stellar.expert/explorer/testnet/contract/CBH5HGLRNRAI3MICD2QJAJTOAVZ764EJV4O47E3EPNASCGF2JNR2WB6D  
 
 - **Contract's screenshot:**  
-  *(Insert screenshot here)*
+<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/434caa73-7a31-4d74-b288-675b05b054e7" />
+
 
 ---
 
